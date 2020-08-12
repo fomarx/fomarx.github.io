@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/logo-5.jpg"
+thumbnail: "/uploads/sw-logo.jpg"
 title: SW Co.
 date: 2019-01-03
 categories:
@@ -9,4 +9,4 @@ project_bg_color: ''
 project_fg_color: '#F2C36B'
 
 ---
-![](/uploads/logo-5.jpg)
+![](/uploads/sw-logo.jpg)
