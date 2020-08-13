@@ -10,4 +10,4 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/jomle/brand.png)
+![](/uploads/jomle/brand.jpg)
