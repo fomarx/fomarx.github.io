@@ -8,7 +8,7 @@
       </div>
 
       <p class='contact-subtext'>Email:</p>
-      <h1 class='contact-email'>design@omarsid.me</h1>
+      <h1 class='contact-email'>omarh9323@gmail.com</h1>
 
       <!-- <form class="contact-form" name="contact">
 
