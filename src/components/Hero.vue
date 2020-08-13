@@ -47,7 +47,7 @@ export default {
     padding: 0;
 }
 .hero-subtitle {
-    width: 480px;
+    max-width: 480px;
     font-size: 1.15em;
     font-weight: 400;
     line-height: 1.68;

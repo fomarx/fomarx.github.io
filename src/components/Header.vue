@@ -54,6 +54,8 @@ export default {
 .logo {
     margin-top: 1rem;
     height: 5rem;
+    max-height: 3rem;
+    opacity: 0.8;
 }
 .site-name {
     font-size: 0.9rem;
