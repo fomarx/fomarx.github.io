@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/sw-logo.jpg"
+thumbnail: "/uploads/sw.jpg"
 title: SW Co.
 date: 2019-01-03
 categories:

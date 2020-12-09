@@ -1,16 +1,12 @@
 ---
-thumbnail: "/uploads/collection/cover.jpg"
-title: Minimal Logo Collection
+thumbnail: "/uploads/web-1/cover.jpg"
+title: Landing page design
 date: 2015-01-03
 categories:
-- Logo
-- Collection
+- Website
+- UI design
 project_bg_color: ''
-project_fg_color: '#6666ff'
+project_fg_color: '#FFB400'
 
 ---
-![](/uploads/collection/cover.jpg)
-![](/uploads/collection/1.jpg)
-![](/uploads/collection/2.jpg)
-![](/uploads/collection/3.jpg)
-![](/uploads/collection/4.jpg)
+![](/uploads/web-1/1.jpg)

@@ -816,6 +816,14 @@ export default {
         justify-content: space-between;
 }
 
+@media(max-width: 768px) {
+	.hero {
+		flex-direction: column-reverse;
+	}
+	.hero-title {
+    font-size: 3rem !important;
+}
+}
 @media(min-width: 700px) {
   .hero {
     flex-direction: row;
